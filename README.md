@@ -10,3 +10,4 @@ linia comanda : gcc -o algoritm.o
 Pas 4(executa)
 linia comanda : algoritm.exe
 La final se ruleaza programul. Trebuie introduse de la tastatura textul sursa(cel gresit) si textul tinta(cel corect).
+Nota: Este posibil necesitatea adugarii unui fisier pentru input-uri pentru unele compilatoare.
